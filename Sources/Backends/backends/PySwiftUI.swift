@@ -8,7 +8,7 @@
 import Foundation
 import PathKit
 import ProjectSpec
-import PSTools
+//import PSTools
 
 public class PySwiftUI: BackendProtocol {
     public var name: String = "PySwiftUI"
